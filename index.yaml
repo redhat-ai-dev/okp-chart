@@ -1,2 +1,23 @@
 apiVersion: v1
-entries: {}
+entries:
+  okp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-07-27T21:26:21.510586783Z"
+    description: Red Hat Offline Knowledge Portal (OKP) Helm chart for OpenShift
+    digest: 5da14491bef18e335a767409fb18bf3825240832f7a1900d6d9dee1245c7c505
+    home: https://github.com/redhat-ai-dev/okp-chart
+    keywords:
+    - okp
+    - offline-knowledge-portal
+    - solr
+    - red-hat
+    - openshift
+    name: okp
+    sources:
+    - https://github.com/redhat-ai-dev/okp-chart
+    type: application
+    urls:
+    - https://github.com/redhat-ai-dev/okp-chart/releases/download/okp-0.1.0/okp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-07-27T21:26:21.510596688Z"
