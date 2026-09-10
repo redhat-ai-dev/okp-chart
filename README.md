@@ -1,5 +1,8 @@
 # OKP Helm Chart
 
+> [!WARNING]
+> This repository has been retired and will no longer be maintained. It has been moved to [redhat-developer/rhdh-okp-chart](https://github.com/redhat-developer/rhdh-okp-chart).
+
 Helm chart for deploying [Red Hat Offline Knowledge Portal (OKP)](https://docs.redhat.com/en/documentation/red_hat_offline_knowledge_portal) on OpenShift.
 
 OKP provides offline access to Red Hat product documentation through a bundled Apache httpd server (serving HTML docs) and Apache Solr (search and RAG index). It is designed to work with [Red Hat Developer Lightspeed](https://docs.redhat.com/en/documentation/red_hat_developer_hub) to deliver grounded, citation-backed AI responses from product documentation — including in air-gapped environments with no internet access.
